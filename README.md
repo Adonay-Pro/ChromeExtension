@@ -1,2 +1,8 @@
 # ChromeExtension
-This project was created using Javascript. It's a extension browser where you can save the last links about the web sites that you were visiting, to let you find them quicker.
+This project was created using Javascript.
+It's a extension browser where you can save the links you usually use to find them quicker.
+You should use it!
+
+<img src="/Screenshot 2022-01-20 170702-chromeExtension.png">
+
+
